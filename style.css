@@ -7,3 +7,8 @@ p{
   align-self: start;
 
 }
+img{
+  width: 300px;
+  border-color: blue;
+  
+}
