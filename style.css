@@ -10,5 +10,6 @@ p{
 img{
   width: 300px;
   border-color: blue;
-  
+  border-radius: 50px;
+
 }
