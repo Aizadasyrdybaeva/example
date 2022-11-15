@@ -1,3 +1,8 @@
 *{
   box-sizing: border-box;
 }
+p{
+  color: bisque;
+  font-size: large;
+  align-self: start;
+}
